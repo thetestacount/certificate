@@ -1,7 +1,7 @@
-import { useClient } from 'next/client';
+import {useRouter} from "next/router";
 
 const Home = () => {
-  const router = useClient().router;
+  const router = useRouter();
 
   const handleViewCertificate = () => {
     const staticId = 'abcd-1234';
