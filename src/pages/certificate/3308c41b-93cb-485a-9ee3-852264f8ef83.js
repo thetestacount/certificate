@@ -25,7 +25,7 @@ const CertificatePage = () => {
                     </div>
                     <br />
 
-                    <Image
+                    <img
                         src="/img/nishantshete.jpg" // path relative to the `public` directory
                         alt="Certificate Image"
                         width={600}
