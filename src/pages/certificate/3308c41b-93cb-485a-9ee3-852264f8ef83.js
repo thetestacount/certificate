@@ -18,7 +18,7 @@ const CertificatePage = () => {
 
                     <div style={{ marginTop: '20px', textAlign: 'left' ,marginBottom:'3rem' }}>
                         <p><strong>Certificate Number:</strong> 3308c41b-93cb-485a-9ee3-852264f8ef83</p>
-                        <p><strong>Certificate Holder Name:</strong> Nishant Shete</p>
+                        <p><strong>Certificate Holder Name:</strong> Nishant Uday Shete</p>
                         <p><strong>Issued Date:</strong> July 2024</p>
                     </div>
                     
