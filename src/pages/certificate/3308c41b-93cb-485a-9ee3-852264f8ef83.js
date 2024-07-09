@@ -1,6 +1,4 @@
-// pages/certificate/abcd-1234.js
 
-import Image from 'next/image';
 
 const CertificatePage = () => {
     return (
